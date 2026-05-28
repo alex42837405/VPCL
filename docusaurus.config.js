@@ -1,7 +1,7 @@
 import {themes} from 'prism-react-renderer';
 
 const config = {
-  title: 'Visual Plan Construct Language)',
+  title: 'Visual Plan Construct Language',
   tagline: 'A visual language for teaching and learning programming.',
   favicon: 'img/favicon.ico',
   url: 'https://vpcl.vercel.app',
@@ -20,7 +20,7 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/alex42837405/VPCL',
+          editUrl: 'https://github.com/alex42837405/VPCL/tree/main',
         },
         theme: {
           customCss: './src/css/custom.css',
