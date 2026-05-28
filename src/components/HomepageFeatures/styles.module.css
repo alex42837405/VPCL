@@ -1,0 +1,14 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureIcon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80px;
+  color: var(--ifm-color-primary);
+}
