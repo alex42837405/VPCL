@@ -39,6 +39,11 @@ const config = {
           label: 'Documentation',
         },
         {
+          to: '/vpcl-workspace',
+          position: 'left',
+          label: 'VPCL Workspace',
+        },
+        {
           href: 'https://github.com/alex42837405/VPCL',
           label: 'GitHub',
           position: 'right',
